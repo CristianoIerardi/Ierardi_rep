@@ -4,3 +4,5 @@ questa è la VER3
 vorrei adesso spostarmi in un altro ramo VER4
 
 prima non sono riuscito a mettermi nel ramo1 con la ver4, provo ora dopo il git checkout -b ramo1
+
+adesso voglio fare un merge VER6
